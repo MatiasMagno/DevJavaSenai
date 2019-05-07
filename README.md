@@ -1,2 +1,2 @@
 # DevJavaSenai
-Exemplos feitos na aula de Java do Senai.
+Exemplos feitos nas aulas de Java do Senai.
